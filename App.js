@@ -3,6 +3,7 @@ function App() {
 		<div>
 			<h1>hello</h1>
 		{console.log("hi")}
+{console.log("add in git")}
 		</div>
 	)
 }
